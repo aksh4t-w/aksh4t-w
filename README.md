@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Akshat!</h1>
 <h3 align="center">A passionate software developer, always looking to work on something interesting!</h3>
 
-- 🌱 I’m currently learning **Cloud technologies**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 👨‍💻 Some of projects are at [https://akshatw.netlify.app/](https://akshatw.netlify.app/)
+- 👨‍💻 Some of projects are at [My personal website](https://akshatw.netlify.app/)
 
 - 💬 Ask me about **React, Web development**
 
-- 📫 How to reach me **akshat.w97@gmail.com**
+- 📫 How to reach me: **akshat.w97@gmail.com**
 
-- 📄 Know about my experiences [https://pdfhost.io/v/kx8qzwnZpf_Akshat_Wagadre_Resume](https://pdfhost.io/v/kx8qzwnZpf_Akshat_Wagadre_Resume)
+- 📄 Know about my experiences: [Resume](https://pdfhost.io/v/kx8qzwnZpf_Akshat_Wagadre_Resume)
 
-- ⚡ Fun fact **I play guitar!**
+- ⚡ Fun fact: **I like playing guitar!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
