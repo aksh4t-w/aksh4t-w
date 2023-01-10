@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
-- 👨‍💻 Some of projects are at **[My personal website]**(https://akshatw.netlify.app/)
+- 👨‍💻 Some of projects are at [**My personal website**](https://akshatw.netlify.app/)
 
 - 💬 Ask me about **React, Web development**
 
 - 📫 How to reach me: **akshat.w97@gmail.com**
 
-- 📄 Know about my experiences: **[Resume]**(https://pdfhost.io/v/kx8qzwnZpf_Akshat_Wagadre_Resume)
+- 📄 Know about my experiences: [**Resume**](https://pdfhost.io/v/kx8qzwnZpf_Akshat_Wagadre_Resume)
 
 - ⚡ Fun fact: **I like playing guitar!**
 
-<h3 align="left">Connect with me:</h3>__
-
+<h3 align="left">Connect with me:</h3>
+##
 <p align="left">
 <a href="https://instagram.com/akshat.w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat.w" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akshat wagadre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshat wagadre" height="30" width="40" /></a>
