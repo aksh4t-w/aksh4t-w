@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
-- 👨‍💻 Some of projects are at [**My personal website**](https://akshatw.netlify.app/)
+- 👨‍💻 Some of my projects are at [**My personal website**](https://akshatw.netlify.app/)
 
 - 💬 Ask me about **React, Web development**
 
